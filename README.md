@@ -39,7 +39,7 @@ My work revolved aroundcreating the Navigation Stack for the rover and all the a
 ![Top Languages](https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=LavaHawk0123&hide=TeX&layout=compact&theme=blue-green)
 
 ---
-
+<!--
 ### Popular Repositories
 </br>
 
@@ -52,7 +52,7 @@ My work revolved aroundcreating the Navigation Stack for the rover and all the a
 <a href="https://github.com/LavaHawk0123/Projects">
   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=LavaHawk0123&repo=Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+-->
 ---
 <!--
 ### Social and Professional Reach:
