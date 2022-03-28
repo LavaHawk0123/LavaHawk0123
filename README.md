@@ -36,7 +36,7 @@ My work revolved aroundcreating the Navigation Stack for the rover and all the a
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-LavaHawk0123)
 
 ![Github Statistics](https://github-readme-stats-drab-delta.vercel.app/api?username=LavaHawk0123&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![Top Languages](https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=LavaHawk0123&hide=TeX&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=LavaHawk0123&hide=TeX&layout=compact&theme=blue-green)
 
 ---
 
