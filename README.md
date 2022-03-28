@@ -17,8 +17,8 @@
 
 <p  align="center"><img src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
-## Welcome fellow Padawan 👋
-I'm Aditya Arun Iyer, A Computer  Science  sophomore at  MIT Manipal. I have  an  avid interest in robotics  and  automation  with a primary focus on perception,  planning  and simulations. I am currently expanding my knowledge on developing and coding automation systems  for industrial  and  scientific  tasks  carried  out  by  complex robotic systems. I am proficient in <b><a href = "https://docs.microsoft.com/en-us/cpp/?view=msvc-170">C++</a></b>,  <b><a href="https://www.python.org/">Python</a></b> and <b><a href="https://www.ros.org/">Robot Operating System(ROS)</a></b> with over a year of experience in each of them. Focused and self-motivating, I look to make myself better every day and help my team do the same.
+## Welcome fellow padawan 👋
+I'm Aditya Arun Iyer, A Computer Science sophomore at MIT Manipal. I have  an  avid interest in robotics  and  automation  with a primary focus on perception,  planning  and simulations. I am currently expanding my knowledge on developing and coding automation systems  for industrial  and  scientific  tasks  carried  out  by  complex robotic systems. I am proficient in <b><a href = "https://docs.microsoft.com/en-us/cpp/?view=msvc-170">C++</a></b>,  <b><a href="https://www.python.org/">Python</a></b> and <b><a href="https://www.ros.org/">Robot Operating System(ROS)</a></b> with over a year of experience in each of them. Focused and self-motivating, I look to make myself better every day and help my team do the same.
  
 I'm currently working as an Artificial Intelligence Engineer in the Artificial Intelligence and Automation Subsystem at <a href = "http://www.marsrovermanipal.com/">Mars Rover Manipal</a> , a multi-disciplinary student project that develops Mars Rovers from scratch and competes alongside top universities such as Stanford and Michigan in Rover Challenges across the globe.
 
