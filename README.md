@@ -1,21 +1,5 @@
 ### Eat Sleep Code Repeat <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="30" height="30" align ="center">
-<!--
-<a href="https://github.com/LavaHawk0123">
-  <img align="center" alt=" Aditya Arun Iyer's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<p>
-  <a href="https://twitter.com/ayush_aiq"><img width="25" height="25" src="/resources/twitter.svg"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/aiqqia"><img width="25" height="25" src="/resources/linkedin.svg"></a>
-  &nbsp;
-  <a href="https://www.instagram.com/_.ayush_goyal._"><img width="25" height="25" src="/resources/instagram.svg"></a>
-  &nbsp;
-  <a href="https://discord.com/Ayush#6785"><img width="29" height="28" src="/resources/discord.png"></a>
-   &nbsp;
-</p>-->
-
-<p  align="center"><img src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
+<p  align="center"><img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="300" height="250" align ="center">
 
 ## Welcome fellow Coder 👋
 I'm Aditya Arun Iyer, A Computer Science sophomore at MIT Manipal. I have  an  avid interest in robotics  and  automation  with a primary focus on perception,  planning  and simulations. I am currently expanding my knowledge on developing and coding automation systems  for industrial  and  scientific  tasks  carried  out  by  complex robotic systems. I am proficient in <b><a href = "https://docs.microsoft.com/en-us/cpp/?view=msvc-170">C++</a></b>,  <b><a href="https://www.python.org/">Python</a></b> and <b><a href="https://www.ros.org/">Robot Operating System(ROS)</a></b> with over a year of experience in each of them. Focused and self-motivating, I look to make myself better every day and help my team do the same.
