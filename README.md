@@ -1,4 +1,4 @@
-### Eat Sleep Code Repeat <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="30" height="30" align ="center">
+### Mantra : Eat Sleep Code Repeat 🔥🔥 <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="30" height="30" align ="center">
 <p  align="center"><img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="300" height="250" align ="center">
 
 ## Welcome fellow Coder 👋
