@@ -22,7 +22,7 @@ I'm Aditya Arun Iyer, A Computer Science sophomore at MIT Manipal. I have  an  a
  
 I'm currently working as an Artificial Intelligence Engineer in the Artificial Intelligence and Automation Subsystem at <a href = "http://www.marsrovermanipal.com/">Mars Rover Manipal</a> , a multi-disciplinary student project that develops Mars Rovers from scratch and competes alongside top universities such as Stanford and Michigan in Rover Challenges across the globe.
 
-My work revolved aroundcreating the Navigation Stack for the rover and all the associated codes, prototypes and simulations. I worked on creating and implementing state estimation and a custom planning algorithm for a 6-wheeled rover
+My work revolved around creating the Navigation Stack for the rover and all the associated codes, prototypes and simulations. I worked on creating and implementing state estimation and a custom planning algorithm for a 6-wheeled rover
 ### Summary 👨‍
 - 🔭 Fields of interest in Robotics: Perception, State Estimation, Planning, Optimisation, Machine Learning, Automation
 - 👯 I’m looking to collaborate on project ideas and participate actively in discussions and webinars about scientific advancements.
