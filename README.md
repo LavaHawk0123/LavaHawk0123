@@ -24,20 +24,6 @@ My work revolved around creating the Navigation Stack for the rover and all the 
 
 ---
 
-### Popular Repositories
-</br>
-
-<a href="https://github.com/LavaHawk0123/Artmis-Drone">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LavaHawk0123&repo=Artmis-Drone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
----
-
-<a href="https://github.com/LavaHawk0123/ROS-Nav-Stack.git">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=LavaHawk0123&repo=Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
----
 <!--
 ### Social and Professional Reach:
 </br>
